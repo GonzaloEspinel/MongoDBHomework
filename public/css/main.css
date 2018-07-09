@@ -1,0 +1,16 @@
+.background-image {
+	margin-top: 5px;
+    background-image: url('../img/newsbackground.jpg');
+    background-size: cover;
+    color: #b6b6b6;
+    padding-bottom: 200px;
+}
+
+body {
+     display: flex;
+     min-height: 100vh;
+     flex-direction: column;
+ }
+ main {
+     flex: 1 0 auto;
+ }
