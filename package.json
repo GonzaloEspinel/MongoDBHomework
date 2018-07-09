@@ -1,5 +1,5 @@
 {
-  "name": "mongonews",
+  "name": "mongodbhomework",
   "version": "1.0.0",
   "description": "a mongdb scraper",
   "main": "server.js",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GonzaloEspinel/MongoNews.git"
+    "url": "git+https://github.com/GonzaloEspinel/MongoDBHomework.git"
   },
   "author": "Gonzalo Espinel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GonzaloEspinel/MongoNews/issues"
+    "url": "https://github.com/GonzaloEspinel/MongoDBHomework/issues"
   },
   "keywords": [
     "mongondb",
